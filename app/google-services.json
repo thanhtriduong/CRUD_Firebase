@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474807263259",
+    "project_id": "democrudfirebase-c7284",
+    "storage_bucket": "democrudfirebase-c7284.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474807263259:android:af5594c541e33b706d98be",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sUTXAiTQn_rAETuYTRTEydDkg8UD2p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
